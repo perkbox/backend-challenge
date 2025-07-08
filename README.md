@@ -23,7 +23,7 @@ The service should allow:
 
 - **Admins** can create and delete users within their business.
 - **Admins** can create and delete other admins within their business.
-- **Admins** to list all users in their business.
+- **Admins** can list all users within in their business.
 - **Users** can update their own details.
 - **Anyone** within a business can get the details of another user in the same business by ID.
 
@@ -46,6 +46,7 @@ You are welcome to add more fields if you wish.
 ### Getting Started
 
 You can use any frameworks and libraries you are comfortable with.
+
 Please include setup instructions in your repository so we can run your service locally.
 
 ## Submission
