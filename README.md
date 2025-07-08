@@ -10,7 +10,7 @@ We want to see how you approach engineering problems such as data modeling, API 
 
 Please spend no more than **2-3 hours** on this challenge and focus on delivering clear, thoughtful code that demonstrates your skills.
 
-## The Challenge: User Management Service with Business Context
+## The Challenge: User Management Service
 
 Build a service to manage users within Perkbox, where each user belongs to a business.
 For this challenge, assume that another service manages businesses - use a made-up `business_id` when associating users.
