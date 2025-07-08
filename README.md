@@ -57,7 +57,7 @@ This repository is set up as a GitHub template. To create your own copy of this 
 2. Select **"Create a new repository"**.
 3. Fill in your new repository details (name, description, visibility, etc.).
 4. Click **"Create repository from template"**.
-5. Clone your new repository to your local machine and follow the setup instructions below.
+5. Clone your new repository to your local machine.
 
 
 ## Submission
