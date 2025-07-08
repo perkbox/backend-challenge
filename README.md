@@ -49,6 +49,17 @@ You can use any frameworks and libraries you are comfortable with.
 
 Please include setup instructions in your repository so we can run your service locally.
 
+#### Using this Repository as a GitHub Template
+
+This repository is set up as a GitHub template. To create your own copy of this project:
+
+1. Click the green **"Use this template"** button at the top of the repository page on GitHub.
+2. Select **"Create a new repository"**.
+3. Fill in your new repository details (name, description, visibility, etc.).
+4. Click **"Create repository from template"**.
+5. Clone your new repository to your local machine and follow the setup instructions below.
+
+
 ## Submission
 
 Please submit your solution as a link to a public repository (GitHub, GitLab, etc.). Your repository should include:
